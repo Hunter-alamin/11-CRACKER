@@ -16,3 +16,5 @@ pip2 install mechanize
 git clone https://github.com/Hunter-alamin/11-CRACKER
 
 cd 11-CRACKER
+
+python2 Allcracker.py
